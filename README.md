@@ -8,7 +8,13 @@
 ## 🖼️ Uygulama Arayüzü
 
 <p align="center">
-  <img src="Ekran Resmi 2026-02-13 14.13.39.png" alt="PhotoFilterer GUI" width="700">
+  <img src="https://drive.google.com/uc?export=view&id=1DXx-2G7alX1EAqKdxZIVOmRPHroq5TBf" alt="PhotoFilterer GUI" width="700">
+</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=113ckbZC1pfUxHDBmeV86RdR7XeJTe_bO" alt="PhotoFilterer GUI" width="700">
+</p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1yGSpUl1hixeqonkJl_bhr9i6WkopeIPs" alt="PhotoFilterer GUI" width="700">
 </p>
 
 ## 🚀 Teknik Özellikler
@@ -38,7 +44,8 @@ Uygulama, görsel üzerinde aşağıdaki işlemleri eşzamanlı veya ardışık 
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-1. **Gereksinimler:** Bilgisayarınızda **MATLAB** ve **Image Processing Toolbox** yüklü olmalıdır.
+1. **Gereksinimler:** Bilgisayarınızda **MATLAB** yüklü olmalıdır.
 2. **Projeyi İndirin:**
    ```bash
    git clone [https://github.com/ItsMerad/PhotoFilterer.git](https://github.com/ItsMerad/PhotoFilterer.git)
+3. **Image Processing Toolbox**'ı MATLAB'ınıza kurun
